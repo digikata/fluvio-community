@@ -7,7 +7,7 @@ edition = "2021"
 
 [dependencies]
 anyhow = "1.0.70"
-fluvio = { version = "0.22.2", default-features = false, features = ["rustls"] }
+fluvio = { version = "0", default-features = false }
 futures-util = "0.3.28"
 poem = { version = "3.0.1", features = ["embed", "websocket"] }
 rust-embed = "8.4.0"
