@@ -1,3 +1,5 @@
+ARCHIVE: moved to https://github.com/fluvio-community/utilities
+
 A place for the community to share fluvio projects and utilities
 
 # Utilities
